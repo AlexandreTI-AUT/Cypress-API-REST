@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "title": "Book",
+  "description": "Cypress Book",
+  "pageCount": 0,
+  "excerpt": "string",
+  "publishDate": "2021-06-11T00:35:16.241Z"
+}
